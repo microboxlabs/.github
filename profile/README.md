@@ -1,7 +1,3 @@
-# Welcome to MicroboxLabs
-
-![MicroboxLabs Logo](https://via.placeholder.com/150)
-
 ## About Us
 
 MicroboxLabs is a software consulting firm dedicated to delivering innovative and efficient solutions. We believe in simplifying complex problems and encapsulating them in well-structured, manageable solutions that work seamlessly together.
